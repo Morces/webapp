@@ -1,0 +1,9 @@
+{
+  "name": "PRO SHULE",
+  "short_name": "PRO-SHULE",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A school management system.",
+  "icons": []
+}
